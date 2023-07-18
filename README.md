@@ -1,4 +1,7 @@
+
 # dir-compare-cli
+**Note: This document is a work in progress and may contain inaccuracies.**
+note
 ## Installation
 
 You can install `dir-compare-cli` globally using npm:
